@@ -21,11 +21,15 @@ ruby v3.rb
 
 ###How to use it:
 Enter any linux command with simple output and press enter
+
 For example:
-date<enter>
+date (press enter)
+
 A good way to test is to install the "fortune" application.
 fortune prints out a random quotation from a database into the terminal
+
 To install fortune run:
 sudo apt-get install fortune
+
 And then inside the demo you can run:
 fortune<enter>
