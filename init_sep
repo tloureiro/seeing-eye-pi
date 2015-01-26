@@ -1,5 +1,0 @@
-#!/bin/bash
-
-sudo -v
-sudo ./logger/seplogger 3 & >/dev/null 
-bash | tee /dev/tty | espeak 
