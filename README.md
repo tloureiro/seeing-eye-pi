@@ -37,7 +37,8 @@ The ultimate goal of this project is to produce an affordable portable device (u
 A testing version of seeing eye pi (with a screen) - <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 
 ##Running
-<b>Prerequisites</b>
+<b>Prerequisites</b
+
 For Debian-based systems:
 ```bash
 sudo apt-get -y install espeak fortune ruby1.9.3 libxslt1-dev libxml2-dev python-pip
