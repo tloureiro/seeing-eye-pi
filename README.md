@@ -9,6 +9,7 @@ The aim of this project is to provide an environment where the seeing impaired c
 | [Affordable](#affordable) |
 | [Current programs](#current-programs) |
 | [Seeing eye pi in action](#seeing-eye-pi-in-action) |
+| [Installing](#installing) |
 | [TODO](#todo) |
 | [Known issues](#known-issues) |
 | [Contribute](#contribute) |
@@ -23,7 +24,7 @@ The target audience for seeing eye pi are people with little or no experience wi
 Any simple program, in any language that can read from the keyboard and output text to terminal can be used. 
 Seeing eye pi is in charge of providing the keyboard feedback and reading the output produced by the applications.
 
-##Affordable
+###Affordable
 The ultimate goal of this project is to produce an affordable portable device (under 50 dollars) that is able to perform a variety of basic tasks like accessing online information, listening to audiobooks and writing e-mails.
 
 ###Current programs
@@ -35,16 +36,22 @@ The ultimate goal of this project is to produce an affordable portable device (u
 ###Seeing eye pi in action
 A testing version of seeing eye pi (with a screen)
 <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
+
+###Installing
+
+
 ###TODO
-Core
-	-Read the current line capability
-Wikipedia
-	-Develop subtopic navigation inside an article 
-	-Disambiguation articles
+<b>Image/Installer</b>
+	- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi installed
+<b>Core</b>
+	- Read the current line capability
+<b>Wikipedia</b>
+	- Develop subtopic navigation inside an article 
+	- Disambiguation articles
 	
 ###Known issues
-Time
-	-The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
+<b>Time</b>
+	- The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
 
 ###Contribute
 Please contribute to the project, just send me a message. Any help is very appreciated.
