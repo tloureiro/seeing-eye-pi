@@ -9,7 +9,7 @@ The aim of this project is to provide an environment where the seeing impaired c
 | [Affordable](#affordable) |
 | [Current programs](#current-programs) |
 | [Seeing eye pi in action](#seeing-eye-pi-in-action) |
-| [Installing](#installing) |
+| [Running](#running) |
 | [TODO](#todo) |
 | [Known issues](#known-issues) |
 | [Contribute](#contribute) |
@@ -37,8 +37,18 @@ The ultimate goal of this project is to produce an affordable portable device (u
 A testing version of seeing eye pi (with a screen)
 <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 
-##Installing
-
+##Running
+<b>Prerequisites</b>
+For debian based Linux:
+```bash
+sudo apt-get -y install espeak fortune ruby1.9.3 libxslt1-dev libxml2-dev python-pip
+sudo pip install pexpect
+sudo gem install nokogiri
+```
+<b>Run</b> 
+```bash
+init_sep.sh
+```
 
 ##TODO
 <b>Image/Installer</b>
