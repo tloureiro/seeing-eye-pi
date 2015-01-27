@@ -43,20 +43,21 @@ A testing version of seeing eye pi (with a screen)
 ###TODO
 <b>Image/Installer</b>
 
-	- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi installed
+- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi installed
 	
 <b>Core</b>
 
-	- Read the current line capability
+- Read the current line capability
 	
 <b>Wikipedia</b>
 
-	- Develop subtopic navigation inside an article 
-	- Disambiguation articles
+- Develop subtopic navigation inside an article 
+- Disambiguation articles
 	
 ###Known issues
 <b>Time</b>
-	- The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
+
+- The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
 
 ###Contribute
 Please contribute to the project, just send me a message. Any help is very appreciated.
