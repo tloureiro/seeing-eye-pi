@@ -27,10 +27,10 @@ Seeing eye pi is in charge of providing the keyboard feedback and reading the ou
 The ultimate goal of this project is to produce an affordable portable device (under 50 dollars) that is able to perform a variety of basic tasks like accessing online information, listening to audiobooks and writing e-mails.
 
 ###Current programs
-time- Shows the current time
-date- Shows the current date
-wikipedia- A command line wikipedia client
-help- Provide some basic help on how to use seeing eye pi
+- time- Shows the current time
+- date- Shows the current date
+- wikipedia- A command line wikipedia client
+- help- Provide some basic help on how to use seeing eye pi
 
 ###Seeing eye pi in action
 
