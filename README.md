@@ -37,7 +37,9 @@ The ultimate goal of this project is to produce an affordable portable device (u
 A testing version of seeing eye pi (with a screen) - <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 
 ##Running
-<b>Prerequisites</b
+The installing/running process is not yet as simple as it should be. The ideal scenario is to have a SD card image with everything already installed and ready to be used.
+
+<b>Prerequisites</b>
 
 For Debian-based systems:
 ```bash
@@ -45,7 +47,7 @@ sudo apt-get -y install espeak fortune ruby1.9.3 libxslt1-dev libxml2-dev python
 sudo pip install pexpect
 sudo gem install nokogiri
 ```
-<b>Run</b> 
+<b>then run</b> 
 ```bash
 init_sep.sh
 ```
