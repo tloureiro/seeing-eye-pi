@@ -20,8 +20,6 @@ Just a keyboard and earphones are necessary to use it.
 Textual commands are designed to be simple and logical.
 The target audience for seeing eye pi are people with little or no experience with computers.
 
-
-
 ##Easy to extend
 Any simple program, in any language that can read from the keyboard and output text to terminal can be used. 
 Seeing eye pi is in charge of providing the keyboard feedback and reading the output produced by the applications.
@@ -62,4 +60,4 @@ A testing version of seeing eye pi (with a screen)
 - The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
 
 ##Contribute
-Please contribute to the project, just send me a message. Any help is very appreciated.
+Please contribute to the project, just send me a message at tloureiro360 (gmail). Any help is very appreciated.
