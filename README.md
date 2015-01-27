@@ -42,12 +42,15 @@ A testing version of seeing eye pi (with a screen)
 
 ###TODO
 <b>Image/Installer</b>
+
 	- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi installed
 	
 <b>Core</b>
+
 	- Read the current line capability
 	
 <b>Wikipedia</b>
+
 	- Develop subtopic navigation inside an article 
 	- Disambiguation articles
 	
