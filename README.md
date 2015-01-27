@@ -34,7 +34,7 @@ The ultimate goal of this project is to produce an affordable portable device (u
 
 ###Seeing eye pi in action
 A testing version of seeing eye pi (with a screen)
-https://www.youtube.com/watch?v=yZOIhLYbcGA
+<a href="https://www.youtube.com/watch?v=yZOIhLYbcGA" target="_blank"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 ###TODO
 Core
 	-Read the current line capability
