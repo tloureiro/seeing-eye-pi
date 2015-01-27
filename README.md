@@ -4,8 +4,8 @@ The aim of this project is to provide an environment where the seeing impaired c
 
 | contents |
 | ------------- |
-| [Easy to use](#easy-use) |
-| [Easy to extend](#easy-extend) |
+| [Easy to use](#easy-to-use) |
+| [Easy to extend](#easy-to-extend) |
 | [Affordable](#affordable) |
 | [Current programs](#current-programs) |
 | [Seeing eye pi in action](#seeing-eye-pi-in-action) |
