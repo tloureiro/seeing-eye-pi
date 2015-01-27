@@ -48,6 +48,14 @@ A testing version of seeing eye pi (with a screen)
 <b>Core</b>
 
 - Read the current line capability
+- Wifi conf app
+
+<b>Apps</b>
+
+- Audio books manager/downloader
+- E-mail client
+- Weather app
+- Audio player
 	
 <b>Wikipedia</b>
 
