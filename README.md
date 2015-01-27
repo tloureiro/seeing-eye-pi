@@ -55,7 +55,7 @@ init_sep.sh
 ##TODO
 <b>Image/Installer</b>
 
-- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi installed
+- Create a minimal setup (keyboard, wifi/network, sd expansion) Raspbian image with seeing eye pi and all the dependencies already installed
 	
 <b>Core</b>
 
