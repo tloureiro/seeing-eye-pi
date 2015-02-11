@@ -1,5 +1,3 @@
-#seeing eye pi
-
 <img src="https://cloud.githubusercontent.com/assets/2679036/6150161/b1b4d9f6-b1db-11e4-9326-a39d65e4f719.png" alt="Seeing eye pi logo"/>
 
 
