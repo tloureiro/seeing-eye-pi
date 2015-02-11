@@ -1,6 +1,6 @@
 #seeing eye pi
 
-<img src="https://cloud.githubusercontent.com/assets/2679036/6140766/711863c0-b16a-11e4-95d1-a7f5fba167f3.png" alt="Seeing eye pi logo" style="width: 250px;"/>
+<img src="https://cloud.githubusercontent.com/assets/2679036/6150161/b1b4d9f6-b1db-11e4-9326-a39d65e4f719.png" alt="Seeing eye pi logo"/>
 
 
 The aim of this project is to provide an environment where the seeing impaired can easily use some basic computer tools using the command line in a Raspberry Pi using Linux.
