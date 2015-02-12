@@ -17,14 +17,24 @@ dict = {
     "\x1b[D": "left",
 
     "\x1bOP": "F1",
+    "\x1b[[A": "F1",
+
     "\x1bOQ": "F2",
+    "\x1b[[B": "F2",
+
     "\x1bOR": "F3",
-    "\x1bOS": "F4"
+    "\x1b[[C": "F3",
+
+    "\x1bOS": "F4",
+    "\x1b[[D": "F4"
 }
 
 lambda_dict = {
     "\x1bOP": lambda : espeak_queue.reset(), #F1
+    "\x1b[[A": lambda : espeak_queue.reset(), #F1
+
     "\x1bOQ": lambda : toggle_keyboard_sound(), #F2
+    "\x1b[[B": lambda : toggle_keyboard_sound(), #F2
 }
 
 blacklist_output_list = [
@@ -34,6 +44,8 @@ blacklist_output_list = [
     "\x03",
     "\x1b[C",
     "\x1b[D",
+    "\x1b[[A",
+    "\x1b[[B"
 ]
 
 s = ''
@@ -65,7 +77,10 @@ def input_filter(input):
                 print input.encode(encoding='string_escape'),
 
 
-    return input
+    if input not in lambda_dict:
+        return input
+    else:
+        return ''
 
 def output_filter(output):
 

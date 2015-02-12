@@ -36,7 +36,8 @@ The ultimate goal of this project is to produce an affordable portable device (u
 - <b>help</b>- Provide some basic help on how to use seeing eye pi
 
 ##Seeing eye pi in action
-A testing version of seeing eye pi (with a screen) - <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
+A testing version running on Seeing Eye Pi - <a href="https://www.youtube.com/watch?v=HgiYpmXaeZc"> https://www.youtube.com/watch?v=HgiYpmXaeZc</a>
+A testing version running on a laptop (with a screen) - <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 
 ##Running
 The installing/running process is not yet as simple as it should be. The ideal scenario is to have a SD card image with everything already installed and ready to be used.
@@ -61,7 +62,10 @@ init_sep.sh
 	
 <b>Core</b>
 
+- Add autoload on .bashrc after boot
 - Read the current line capability
+- Provide sound feedback for the last character erased in a line
+- Keyboard mapping
 - Wifi conf app
 
 <b>Apps</b>
@@ -77,6 +81,10 @@ init_sep.sh
 - Disambiguation articles
 	
 ##Known issues
+<b>Core</b>
+
+- F1 crashes the program when nothing is being played
+
 <b>Time</b>
 
 - The output shouldn't contain leading zeros (instead of 09 00 AM -> 9 AM)
