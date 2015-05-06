@@ -36,7 +36,7 @@ The ultimate goal of this project is to produce an affordable portable device (u
 - <b>help</b>- Provide some basic help on how to use seeing eye pi
 
 ##Seeing eye pi in action
-A testing version running on Seeing Eye Pi - <a href="https://www.youtube.com/watch?v=HgiYpmXaeZc"> https://www.youtube.com/watch?v=HgiYpmXaeZc</a>
+A testing version running on a Raspberry Pi - <a href="https://www.youtube.com/watch?v=HgiYpmXaeZc"> https://www.youtube.com/watch?v=HgiYpmXaeZc</a>
 
 A testing version running on a laptop (with a screen) - <a href="https://www.youtube.com/watch?v=yZOIhLYbcGA"> https://www.youtube.com/watch?v=yZOIhLYbcGA</a>
 
